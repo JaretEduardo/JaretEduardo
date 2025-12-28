@@ -1,75 +1,70 @@
-<h1 align="center"><b>Hi, I'm Jaret 👋</b></h1>
+# Hi there, I'm Jaret 👋
 
-<img align="right" width=300px alt="Coding gif" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+**Backend Developer & Future Software Engineer**
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
+I am a software development student graduating in **April 2026**, with a strong focus on **Backend architectures** and **.NET ecosystems**. While my core strength lies in building robust APIs and server-side logic, I also have Full Stack capabilities using modern frameworks like Next.js and Angular.
 
-I'm a **Software Engineering** student currently in my **6th semester**. I'm passionate about building innovative solutions that combine **AI**, immersive web design, and clean development practices.  
-I'm currently working on a freelance project that I'll present at **HackMTY 2025** 🚀
-
-- 🌱 Currently learning:
-  - Machine Learning with PyTorch
-  - Three.js for immersive web design
-- 🤖 Interested in AI-powered applications
-- 🏢 Looking forward to working at tech companies like **Oracle**, **Softtek**, or **OpenAI**
-- 👥 Supporter of **open source** and collaborative learning
-- 🎻 Hobbies: Playing the violin, gaming, and listening to music
-- ✨ Interested in creating content to share my experiences and knowledge
-
-📫 **Contact me at:** [kaiilawlietmx@gmail.com](mailto:kaiilawlietmx@gmail.com)
+Currently, I am expanding my expertise in **.NET** while exploring the intersection of technology and business, with the goal of launching my own tech venture or joining a Big Tech team remotely.
 
 ---
 
-## 🧠 Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-<span> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
+**Backend & Cloud**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### Frameworks & Libraries
-<span>
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</span>
+**Frontend & Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-### Databases
-<span>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</span>
-
-### Tools
-<span>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</span>
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-[![](https://github-readme-stats.vercel.app/api?username=JaretEduardo&show_icons=true&theme=tokyonight)](https://github.com/JaretEduardo)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JaretEduardo&theme=tokyonight)](https://github.com/JaretEduardo)
+#### 🏪 Smart Store IoT System
+An integrated ecosystem for retail management and automation.
+* **Architecture:** Multi-service system using **Next.js** for dashboarding and **Laravel** for backend logic.
+* **IoT Integration:** Real-time communication via **Socket.io (Node.js)** and **Flask** running on Raspberry Pi sensors.
+* **Mobile:** Native iOS support built with **Swift**.
+* **Infrastructure:** Deployed on **Digital Ocean** droplets running Ubuntu.
+
+#### 🏆 HackMTY 2025 Submission
+A Progressive Web App (PWA) focused on innovation.
+* Built with **Angular**, **Ionic**, and **Laravel**.
 
 ---
 
-## 🌐 Connect with me
+### 🌱 Current Focus
+* Mastering **.NET** for enterprise-grade applications.
+* Building cross-platform mobile solutions.
+* Advanced Linux server administration for production deployments.
 
-<a href="https://www.linkedin.com/in/jaret-eduardo">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kaiilawlietmx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/JaretEduardo">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
+
+### ⚡ Personal Interests
+* 🎻 Violinist
+* 🎮 Gaming
+* 🎧 Music Enthusiast
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jaret-eduardo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:kaiilawlietmx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
