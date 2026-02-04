@@ -2,9 +2,24 @@
 
 **Backend Developer & Future Software Engineer**
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JaretEduardo&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJaretEduardo&longCache=true" alt="Followers" />
+</p>
+
 I am a software development student graduating in **April 2026**, with a strong focus on **Backend architectures** and **.NET ecosystems**. While my core strength lies in building robust APIs and server-side logic, I also have Full Stack capabilities using modern frameworks like Next.js and Angular.
 
 Currently, I am expanding my expertise in **.NET** while exploring the intersection of technology and business, with the goal of launching my own tech venture or joining a Big Tech team remotely.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaretEduardo&show_icons=true&theme=nightowl" alt="JaretEduardo Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaretEduardo&layout=compact&langs_count=8&theme=nightowl" alt="JaretEduardo Top Langs" />
+</p>
 
 ---
 
@@ -62,9 +77,9 @@ A Progressive Web App (PWA) focused on innovation.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jaret-eduardo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaiilawlietmx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
