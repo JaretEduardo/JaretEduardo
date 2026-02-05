@@ -19,7 +19,7 @@ Currently, I am expanding my expertise in **.NET** while exploring the intersect
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaretEduardo&show_icons=true&theme=nightowl&count_private=true" height="180" alt="JaretEduardo Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaretEduardo&layout=compact&langs_count=8&theme=nightowl" height="180" alt="Top Langs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaretEduardo&theme=nightowl&hide_border=true" alt="JaretEduardo Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JaretEduardo&theme=nightowl&hide_border=true" alt="JaretEduardo Streak" />
 </div>
 
 ---
