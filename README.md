@@ -75,6 +75,18 @@ A Progressive Web App (PWA) focused on innovation.
 
 ---
 
+### 💖 Support My Work
+
+If you find my projects helpful or want to support my journey as a developer building a future tech venture, consider becoming a sponsor! Your support helps me maintain server infrastructure and dedicate more time to building robust solutions.
+
+<div align="left">
+  <a href="https://github.com/sponsors/JaretEduardo" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" />
+  </a>
+</div>
+
+---
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jaret-eduardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
